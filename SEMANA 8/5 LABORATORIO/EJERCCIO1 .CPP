@@ -1,3 +1,4 @@
+//1. Escriba un programa que simule el juego de adivinar un número.
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
